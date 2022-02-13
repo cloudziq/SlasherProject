@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/tile_select.wav-2aaadd8fbc5f557fa1ad9a1856d9eb61.sample"
+
+[deps]
+
+source_file="res://assets/sounds/tile_select.wav"
+dest_files=[ "res://.import/tile_select.wav-2aaadd8fbc5f557fa1ad9a1856d9eb61.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
